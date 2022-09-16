@@ -20,4 +20,9 @@ https://github.com/CHAXZeni/ECE444-F2022-Lab1
 
 ![image](https://user-images.githubusercontent.com/53286365/190682237-2197f542-150d-410a-905a-026a191bac4e.png)
 
+**Activity 5**
+
+(c6f702c: modified tough.txt is c4 and the rebase commits are above it)
+
+![image](https://user-images.githubusercontent.com/53286365/190684447-8addc7e2-9df2-40ca-8fa2-edd834cefcea.png)
 
