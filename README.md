@@ -11,3 +11,13 @@ Nathan Coelho
 **Activity 3**
 
 ![image](https://user-images.githubusercontent.com/53286365/190676161-193775d4-177a-473a-9e94-44898bb4954a.png)
+
+**Activity 4** 
+
+https://github.com/CHAXZeni/ECE444-F2022-Lab1
+
+![image](https://user-images.githubusercontent.com/53286365/190677872-38a86064-0c03-4ebc-8b72-444a319862c2.png)
+
+![image](https://user-images.githubusercontent.com/53286365/190682237-2197f542-150d-410a-905a-026a191bac4e.png)
+
+
