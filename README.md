@@ -7,3 +7,7 @@ Nathan Coelho
 **Activity 2**
 
 ![image](https://user-images.githubusercontent.com/53286365/190673821-4c31636f-a3ed-4314-8a0e-50f3eb473bbb.png)
+
+**Activity 3**
+
+![image](https://user-images.githubusercontent.com/53286365/190675935-3062ed75-56a9-46db-8c52-53830e3a65fd.png)
