@@ -26,3 +26,6 @@ https://github.com/CHAXZeni/ECE444-F2022-Lab1
 
 ![image](https://user-images.githubusercontent.com/53286365/190684447-8addc7e2-9df2-40ca-8fa2-edd834cefcea.png)
 
+**Activity 6**
+
+https://github.com/coelhona/ECE444-F2022-EP
