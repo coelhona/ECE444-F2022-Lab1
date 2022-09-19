@@ -36,3 +36,9 @@ https://github.com/coelhona/ECE444-F2022-EP
 
 ![image](https://user-images.githubusercontent.com/53286365/191055432-6941c77f-fe13-435d-a6c8-a4126b7543b7.png)
 
+**Activity 8**
+
+![image](https://user-images.githubusercontent.com/53286365/191062083-af5fe323-f435-4f30-a94d-6c8995c250b8.png)
+
+![image](https://user-images.githubusercontent.com/53286365/191062352-31b4ab9b-aa35-479e-b9ac-0f643ce55988.png)
+
